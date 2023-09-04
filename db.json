@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Nishant",
+      "lastName": "More",
+      "email": "nish@mail.com",
+      "dob": "2000-08-29T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Wipro",
+      "experience": 1,
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstName": "Shubham",
+      "lastName": "Jadhav",
+      "email": "shub@mail.com",
+      "dob": "2000-09-20T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ATS",
+      "experience": 2,
+      "package": 3,
+      "id": 2
+    }
+  ]
+}

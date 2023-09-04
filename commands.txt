@@ -1,0 +1,5 @@
+To start the server:
+ng serve -o
+
+to start the database:
+json-server --watch db.json
